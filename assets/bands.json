@@ -1,0 +1,26 @@
+{
+  "Ozma": {
+    "albums": ["Doubble Donkey Disc", "Pasadena", "Spending Time on the Borderline", "Boomtown", "Rock and Roll part II"],
+    "origin": "Pasadena, CA"
+  },
+  "The Shins": {
+    "albums": ["Port of Morrow", "Oh, Inverted World", "Chutes too Narrow", "Wincing the Night Away"],
+    "origin": "Albequerque, NM"
+  },
+  "Ben Folds Five": {
+    "albums": ["Ben Folds Five", "Whatever and Ever Amen", "The Unauthorized Biography of Reinhold Messner", "The Sound of the Life of the Mind"],
+    "origin": "Chapel Hill, NC"
+  },
+  "The Punch Brothers": {
+    "albums": ["Punch", "Antifogmatic", "Who's Feeling Young Now", "Phosphorescent Blues"],
+    "origin": "New York, NY"
+  },
+  "Nickel Creek": {
+    "albums": ["A Dotted Line", "Nickel Creek", "This Side", "Why Should the Fire Die?"],
+    "origin": "Vista, CA"
+  },
+  "Cloud Cult": {
+    "albums": ["Advice from the Happy Hippopotamus", "Light Chasers", "Love", "The Seeker", "Feel Good Ghosts (Tea Partying Through Tornados)", "Unplug", "The Meaning of 8", "Aurora Borealis", "They Live on the Sun", "Who Killed Puck?"],
+    "origin": "Duluth, MN"
+  }
+}
